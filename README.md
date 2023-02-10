@@ -2,5 +2,5 @@
 ## 食用方法
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontent.com/f1161291/cc-toolbox/main/tool.sh && chmod +x tool.sh && bash tool.sh
+wget -N --no-check-certificate https://github.com/f1161291/hello-world/blob/main/nice.sh && chmod +x tool.sh && bash tool.sh
 ```
